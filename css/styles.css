@@ -155,6 +155,7 @@ h3 {
 }
 
 .btn:hover {
+  color: #072227;
   background: #35858B;
   text-decoration: none;
 }
